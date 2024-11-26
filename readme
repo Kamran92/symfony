@@ -1,0 +1,3 @@
+заменить USER_ID в .env 
+запустить docker-compose.yaml
+войти в контейнер и запустить composer install
